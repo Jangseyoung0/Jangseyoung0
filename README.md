@@ -1,8 +1,8 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Jangseyoung0%20&fontSize=30)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Seyoung's%20github%20🙇🏻‍♀️&fontSize=40&customColorList=24&fontAlign=40)
+<br/>  
 
   <h3>🛠️ Tech Stack 🛠️</h3>
   <hr/>
