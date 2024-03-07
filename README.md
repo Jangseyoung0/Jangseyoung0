@@ -4,7 +4,8 @@
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Jangseyoung0%20&fontSize=50)
   
 
-  ## 💻 My Stack
+  ## 🛠️ Tech Stack 🛠️
+  <br/>
   <strong>LANGUAGE</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
