@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20Seyoung's%20github%20👩‍💻&fontSize=40&customColorList=24&fontAlign=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#FFABC6&height=250&section=header&text=Seyoung's%20github%20👩‍💻&fontSize=40&customColorList=24&fontAlign=40)
 <br/>  
 
   <h3>🛠️ Tech Stack 🛠️</h3>
