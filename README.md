@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Jangseyoung0%20&fontSize=50)
   
 
-  ## 🛠️ Tech Stack 🛠️
+  <h3>🛠️ Tech Stack 🛠️</h3>
   <hr/>
 
   <strong>LANGUAGE</strong>
