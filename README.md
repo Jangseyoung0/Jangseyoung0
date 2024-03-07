@@ -50,7 +50,7 @@
   
   <hr/>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)   
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=seyjang&theme=cold)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=seyjang&theme=warm)
   [![Jangseyoung0's GitHub stats](https://github-readme-stats.vercel.app/api?  username=Jangseyoung0&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
   
 
