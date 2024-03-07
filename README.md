@@ -51,8 +51,6 @@
   <hr/>
   
   [![Jangseyoung0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseyoung0&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-  <img src="http://mazandi.herokuapp.com/api?handle=sk5046&theme=warm"/>
-  <br/>
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)  
 
