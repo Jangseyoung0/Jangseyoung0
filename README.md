@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Jangseyoung0%20&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jangseyoung0%20&fontSize=50)
   
 
   <h3>🛠️ Tech Stack 🛠️</h3>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   
   <hr/>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)    
   <img src="http://mazandi.herokuapp.com/api?handle=seyjang&theme=warm"/>
   <br/>
   
