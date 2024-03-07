@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
-  <hr/>
-
+  <br/>
+  
   <strong>Collaboration</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   
+  <hr/>
   [![Jangseyoung0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseyoung0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)  
