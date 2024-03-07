@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jangseyoung0%20&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Jangseyoung0%20&fontSize=30)
   
 
   <h3>🛠️ Tech Stack 🛠️</h3>
