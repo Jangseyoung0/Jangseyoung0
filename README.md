@@ -35,6 +35,8 @@
   <strong>TOOLS</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
   <br/>
@@ -49,6 +51,8 @@
   <hr/>
   
   [![Jangseyoung0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseyoung0&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+  <img src="http://mazandi.herokuapp.com/api?handle=sk5046&theme=warm"/>
+  <br/>
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang)](https://solved.ac/seyjang)  
 
