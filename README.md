@@ -54,7 +54,7 @@
   </br>
   </br>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seyjang"/>
-   <img src="http://mazandi.herokuapp.com/api?handle=seyjang&theme=warm"/>
+   <img src="http://mazandi.herokuapp.com/api?handle=seyjang&theme=cold"/>
   </div>
 
 
