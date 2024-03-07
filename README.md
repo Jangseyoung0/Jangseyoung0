@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Jangseyoung0%20&fontSize=50)
@@ -51,7 +51,6 @@
 
   <hr/>
   
-  [![Jangseyoung0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jangseyoung0&layout=compact&theme=dark)](https://wakatime.com/@Jangseyoung0)
   
 
   
